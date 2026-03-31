@@ -1,2 +1,2 @@
 # MTLParam-Release
-ドライバ用 PCアプリケーションの配布用repo
+[テスト]ドライバ用 PCアプリケーションの配布用repo

@@ -1,2 +1,2 @@
 # MTLParam-Release
-[テスト]ドライバ用 PCアプリケーションの配布用repo
+[テスト]MTLドライバ用 PCアプリケーション「MTLParam」の配布用リポジトリです。
